@@ -1,5 +1,5 @@
 {
-  "name": "random-string",
+  "name": "js-random-string",
   "version": "0.0.1",
   "description": "Gives the possibility to generate random text from strings.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gergob/random-string.git"
+    "url": "git+https://github.com/gergob/js-random-string.git"
   },
   "keywords": [
     "node",
@@ -19,7 +19,7 @@
   "author": "Gergo Bogdan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gergob/random-string/issues"
+    "url": "https://github.com/gergob/js-random-string/issues"
   },
-  "homepage": "https://github.com/gergob/random-string#readme"
+  "homepage": "https://github.com/gergob/js-random-string#readme"
 }
